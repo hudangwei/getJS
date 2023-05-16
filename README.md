@@ -17,7 +17,7 @@ Make sure you have [GO](https://golang.org/) installed on your system.
 getJS is written in GO. You can install it with `go get`:
 
 ```
-go install github.com/003random/getJS@latest
+go install -v github.com/hudangwei/getJS@latest
 ```
 
 # Usage  
